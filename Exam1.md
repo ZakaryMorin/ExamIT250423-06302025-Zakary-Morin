@@ -46,5 +46,5 @@ This is a pretty begginer friendly tutorial on how to use the different features
 For example, he shows you how to use the Address Bar or Adding a Column Heading.                  
 - https://www.howtogeek.com/customize-file-explorer-in-windows-11-with-these-tips/                    
 This one shows you how to customize your file explorer to your liking. He showed how to customize the icons, changing the navigation of file explorer and removing the recent items folder.                             
-- https://www.xda-developers.com/file-explorer-windows-11/
+- https://www.xda-developers.com/file-explorer-windows-11/                               
 This finale one is an in-depth guide on using file explorer on Windows 11. It shows how to pin files or how to turn on file extensions. 
