@@ -33,8 +33,18 @@ Configure your motherboard for RAM testing.
 - https://softwarekeep.com/blogs/troubleshooting/hardware-problems-were-detected-on-windows-memory-diagnostics?srsltid=AfmBOooUnZ5f8m2gyYb9UJsos8J5v_2KxRTRulNZfv3WXAZpgu_nqwwU
 - https://www.howtogeek.com/260813/how-to-test-your-computers-ram-for-problems/
 - https://www.pugetsystems.com/support/guides/fix-error-in-mem-diagnostic/?srsltid=AfmBOopnxocV16eK4McI8KuXzCsk9hRG8PlnzGDt5mcoVIfY68GMdfP5
-- https://www.kapilarya.com/fix-windows-memory-diagnostic-tool-stuck-or-not-working
-These are interessting websites I found on the subject. The second and fourth websites explains an issue in Windows Memory Diagnostic (hardware problems) and how to fix that.
-The fifth website finds solution to if your Windows Memory Diagnostic doesn't work. For example, the tool is stuck and you can't use it. The first and third are extra information on the subject.
+- https://www.kapilarya.com/fix-windows-memory-diagnostic-tool-stuck-or-not-working                      
+These are some interesting websites I found on the subject. The second and fourth websites explains an issue in Windows Memory Diagnostic (hardware problems) and how to fix that.
+The fifth website finds solution to if your Windows Memory Diagnostic doesn't work. For example, the tool is stuck or it won't turn on. The first and third are extra information on the subject.
 
 
+
+### Q2: Windows File Explorer
+ 
+- https://uis.georgetown.edu/file-explorer/                               
+This is a pretty begginer friendly tutorial on how to use the different features of files explorer.                
+For example, he shows you how to use the Address Bar or Adding a Column Heading.                  
+- https://www.howtogeek.com/customize-file-explorer-in-windows-11-with-these-tips/                    
+This one shows you how to customize your file explorer to your liking. He showed how to customize the icons, changing the navigation of file explorer and removing the recent items folder.                             
+- https://www.xda-developers.com/file-explorer-windows-11/
+This finale one is an in-depth guide on using file explorer on Windows 11. It shows how to pin files or how to turn on file extensions. 
