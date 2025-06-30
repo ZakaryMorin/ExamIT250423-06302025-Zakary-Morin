@@ -27,3 +27,14 @@ This one shows you ways to fix your computer memory problems like using System F
 This one explains how test memory issues on your RAM in a different way than the other two. For example, Clear the CMOS to remove overclock settings or
 Configure your motherboard for RAM testing.
 
+### Part C
+
+- https://www.ninjaone.com/blog/read-memory-diagnostics-tool-results/
+- https://softwarekeep.com/blogs/troubleshooting/hardware-problems-were-detected-on-windows-memory-diagnostics?srsltid=AfmBOooUnZ5f8m2gyYb9UJsos8J5v_2KxRTRulNZfv3WXAZpgu_nqwwU
+- https://www.howtogeek.com/260813/how-to-test-your-computers-ram-for-problems/
+- https://www.pugetsystems.com/support/guides/fix-error-in-mem-diagnostic/?srsltid=AfmBOopnxocV16eK4McI8KuXzCsk9hRG8PlnzGDt5mcoVIfY68GMdfP5
+- https://www.kapilarya.com/fix-windows-memory-diagnostic-tool-stuck-or-not-working
+These are interessting websites I found on the subject. The second and fourth websites explains an issue in Windows Memory Diagnostic (hardware problems) and how to fix that.
+The fifth website finds solution to if your Windows Memory Diagnostic doesn't work. For example, the tool is stuck and you can't use it. The first and third are extra information on the subject.
+
+
